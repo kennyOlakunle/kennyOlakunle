@@ -4,8 +4,7 @@
 [1]: [Twitter](https://twitter.com/_Ken0x)
 
 ### Hi there, 
-I'm Kenny 👋, a Data Scientist passionate about transforming complex data into actionable insights, with hands-on experience in data manipulation, statistical analysis, machine learning, and data visualization. I am proficient in programming languages like Python and R and Databases like SQL and MongoDB.
-I'm learning about AI Engineering and using Large Language Models to build AI applications.
+I'm Kenny 👋, a Data Scientist passionate about transforming complex data into actionable insights, with hands-on experience in data manipulation, statistical analysis, machine learning, and data visualization. I am proficient in programming languages like Python and R and Databases like SQL and MongoDB. I'm learning about AI Engineering and using Large Language Models to build AI applications.
 <!--
 **kennyOlakunle/kennyOlakunle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
