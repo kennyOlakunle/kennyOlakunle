@@ -3,7 +3,10 @@
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1]: [Twitter](https://twitter.com/_Ken0x)
 
-### Hi there, I'm Kenny 👋
+### Hi there, 
+I'm Kenny 👋, a Data Scientist passionate about transforming complex data into actionable insights, with hands-on experience in data manipulation, statistical analysis, machine learning, and data visualization. 
+
+I am proficient in programming languages like Python and R and Databases like SQL and MongoDB.
 <!--
 **kennyOlakunle/kennyOlakunle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
