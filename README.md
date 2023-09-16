@@ -14,7 +14,7 @@
   - [![alt text][1.2]][1][Twitter](https://twitter.com/_Ken0x)
 
 ### Stats
-[![Kenny's github stats](https://github-readme-stats.vercel.app/api?username=kennyOlakunle&count_private=true&show_icons=true&theme=radical&hide_rank=true&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
+[![Kenny's github stats](https://github-readme-stats.vercel.app/api?username=kennyOlakunle&count_private=true&show_icons=true&theme=radical&hide_rank=True&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennyOlakunle&hide_progress=true)
 
