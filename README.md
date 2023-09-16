@@ -14,16 +14,8 @@
   - [![alt text][1.2]][1][Twitter](https://twitter.com/_Ken0x)
 
 ### Stats
-[![Kenny's github stats](https://github-readme-stats.vercel.app/api?username=kennyOlakunle&count_private=true&show_icons=true&theme=radical&hide_rank=True&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennyOlakunle&hide_progress=true)
-
-
-
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kennyOlakunle" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kennyOlakunle&count_private=true&show_icons=true&theme=radical&hide_rank=True&PAT_1" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennyOlakunle&layout=compact&langs_count=8&card_width=320" />
