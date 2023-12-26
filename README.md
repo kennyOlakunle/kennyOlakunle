@@ -4,7 +4,7 @@
 [1]: [Twitter](https://twitter.com/_Ken0x)
 
 ### Hi there, 
-I am Kenny 👋, and I'm happy you are here.
+I am Kehinde Abe 👋, and I'm happy you are here.
 
 I am into Data Science, Artificial Intelligence, and Research. I am expanding my knowledge of MLOps, software engineering, and large language models.
 
