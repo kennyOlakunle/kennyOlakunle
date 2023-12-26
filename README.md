@@ -9,6 +9,7 @@ I am Kenny 👋, and I'm happy you are here.
 I am into Data Science, Artificial Intelligence, and Research. I am expanding my knowledge of MLOps, software engineering, and large language models.
 
 🌱 Skills: Python | R | SQL | PostgreSQL | MongoDB | Data Analysis | Feature Engineering | Machine Learning | Deep Learning | NLP | Web Development
+
 💬 Ask me about: NLP Research | Model Building | Model Deployment | Data science pipeline | AI and Data Science Ethics | Business Research 
 
 **kennyOlakunle/kennyOlakunle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
