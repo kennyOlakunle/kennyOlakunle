@@ -15,7 +15,5 @@ I am into Data Science, Artificial Intelligence, and Research. I am expanding my
 
 :earth_africa: I am currently sharing a little bit of my knowledge with the world through [my blog](https://thecodezs.hashnode.dev)
 
-- Please feel free to reach me through email. I'll be happy to chat.
 
-
-Cheers!
+Please feel free to reach me through email. I'll be happy to chat. Cheers!
