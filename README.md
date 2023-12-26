@@ -12,8 +12,7 @@ I am into Data Science, Artificial Intelligence, and Research. I am expanding my
 
 💬 Ask me about: NLP Research | Model Building | Model Deployment | Data science pipeline | AI and Data Science Ethics | Business Research 
 
-**kennyOlakunle/kennyOlakunle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 :earth_africa: I am currently sharing a little bit of my knowledge with the world through [my blog](https://thecodezs.hashnode.dev)
 
 - Please feel free to reach me through email. I'll be happy to chat.
