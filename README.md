@@ -15,4 +15,4 @@ I'm a Data Scientist
 :earth_africa: I write technical articles on  [Hashnode](https://thecodezs.hashnode.dev) and [Dev.to](https://dev.to/_ken0x) 
 
 
-Please reach me through [Email](kehindeoabe@gmail.com). I'll be happy to chat. Cheers!
+Please reach me through [LinkedIn](https://www.linkedin.com/in/kehindeabe/). I'll be happy to chat. Cheers!
