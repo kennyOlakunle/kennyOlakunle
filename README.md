@@ -7,9 +7,9 @@
 
 I'm a Data Scientist
 
-🌱 Skills: Python | R | SQL | PostgreSQL | MongoDB | Data Analysis | Machine Learning | Deep Learning | NLP | Web Development
+🌱 Skills: Python | R | SQL | PostgreSQL | MongoDB | Data Analysis | Machine Learning | Deep Learning | NLP | Web Development | Business Research 
 
-💬 Ask me about: NLP Research | Data science pipeline | AI and Data Science Ethics | Business Research 
+<!-- 💬 Ask me about: NLP Research | Data science pipeline | AI and Data Science Ethics | -->
 
 
 :earth_africa: I write technical articles on  [Hashnode](https://thecodezs.hashnode.dev) and [Dev.to](https://dev.to/_ken0x) 
