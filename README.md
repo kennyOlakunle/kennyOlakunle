@@ -7,7 +7,8 @@
 
 I'm a Data Scientist
 
-🌱 Skills: Python | R | SQL | PostgreSQL | MongoDB | Data Analysis | Machine Learning | Deep Learning | NLP | Web Development | Business Research 
+🌱 Skills: Python | R | SQL | PostgreSQL | MongoDB | Data Analysis | Machine Learning
+          Deep Learning | NLP | Web Development | Business Research 
 
 <!-- 💬 Ask me about: NLP Research | Data science pipeline | AI and Data Science Ethics | -->
 
